@@ -12,7 +12,7 @@ public class Spiral {
 		// 3. Set the robot to go at max speed (10)
 dean.setSpeed(10);
 		// 4. Do the following (steps 7-9) 75 times
-for (int i = 0; i < 75; i++) {
+for (int i = 0; i < 20000; i++) {
 	
 		// 7. Change the pen color to random
 	dean.setRandomPenColor();
